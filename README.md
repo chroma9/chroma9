@@ -19,7 +19,12 @@ I am Chroma9. I'm a Voice Actor and Musician. I also sometimes code things. Welc
 
 ### 📫 How to reach me:
 * [Twitter](https://twitter.com/OfficialChroma9)
+* [Discord](https://discord.gg/UqXCdgh)
+
+### 🎵 Where to hear my work
+* [Bandcamp](https://chroma9.bandcamp.com/)
 * [SoundCloud](https://soundcloud.com/chroma9)
+* [YouTube](https://www.youtube.com/Chroma9)
 
 <!--
 **chroma9/chroma9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
