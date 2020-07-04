@@ -22,8 +22,11 @@ I am Chroma9. I'm a Voice Actor and Musician. I also sometimes code things. Welc
 * [Discord](https://discord.gg/UqXCdgh)
 
 ### 🎵 Where to hear my work
+* [Apple Music](https://music.apple.com/us/artist/chroma9/1518505310)
 * [Bandcamp](https://chroma9.bandcamp.com/)
+* [Napster](https://us.napster.com/artist/chroma9)
 * [SoundCloud](https://soundcloud.com/chroma9)
+* [Spotify](https://open.spotify.com/artist/4pKo6ILFbitfEhqLALoamR)
 * [YouTube](https://www.youtube.com/Chroma9)
 
 <!--
