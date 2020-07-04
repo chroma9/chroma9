@@ -1,4 +1,25 @@
-### Hi there 👋
+## Hi there 👋
+
+I am Chroma9. I'm a Voice Actor and Musician. I also sometimes code things. Welcome to my Github Profile!
+
+### 😄 My pronouns are...
+* He/Him
+
+### 🔭 I’m currently working on...
+* My personal website
+
+### 🌱 I’m currently learning...
+* Nothing at this moment
+
+### 👯 I’m looking to collaborate on...
+* Nothing at this moment
+
+### 🤔 I’m looking for help with...
+* Nothing at this moment
+
+### 📫 How to reach me:
+* [Twitter](https://twitter.com/OfficialChroma9)
+* [SoundCloud](https://soundcloud.com/chroma9)
 
 <!--
 **chroma9/chroma9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
