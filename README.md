@@ -29,6 +29,8 @@ I am Chroma9. I'm a Voice Actor and Musician. I also sometimes code things. Welc
 * [Spotify](https://open.spotify.com/artist/4pKo6ILFbitfEhqLALoamR)
 * [YouTube](https://www.youtube.com/Chroma9)
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H31W0O6)
+
 <!--
 **chroma9/chroma9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
