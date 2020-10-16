@@ -6,7 +6,8 @@ I am Chroma9. I'm a Voice Actor and Musician. I also sometimes code things. Welc
 * He/Him
 
 ### 🔭 I’m currently working on...
-* My personal website
+* An in-browser game
+* DinoJoe - A Discord Bot for The Isle (Game)
 
 ### 🌱 I’m currently learning...
 * Nothing at this moment
