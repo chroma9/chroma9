@@ -7,7 +7,6 @@ I am Chroma9. I'm a Voice Actor and Musician. I also sometimes code things. Welc
 
 ### 🔭 I’m currently working on...
 * An in-browser game
-* DinoJoe - A Discord Bot for The Isle (Game)
 
 ### 🌱 I’m currently learning...
 * Nothing at this moment
@@ -20,7 +19,7 @@ I am Chroma9. I'm a Voice Actor and Musician. I also sometimes code things. Welc
 
 ### 📫 How to reach me:
 * [Twitter](https://twitter.com/OfficialChroma9)
-* [Discord](https://discord.gg/UqXCdgh)
+* [Discord](https://discord.gg/DKGc6maet9)
 
 ### 🎵 Where to hear my work
 * [Apple Music](https://music.apple.com/us/artist/chroma9/1518505310)
