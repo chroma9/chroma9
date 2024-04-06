@@ -14,8 +14,8 @@ other projects scattered across my Github.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Contact+Me)](https://git.io/typing-svg)
 
-[![Discord](https://img.shields.io/badge/Discord-officialchroma9-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-OfficialChroma9-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OfficialChroma9)
-[![Twitch](https://img.shields.io/badge/Twitch-Chroma9Live-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/Chroma9Live)
-[![Reddit](https://img.shields.io/badge/Reddit-Chroma9-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/Chroma9)
-[![Steam](https://img.shields.io/badge/Steam-Chroma9-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/OfficialChroma9)
+[![Discord](https://img.shields.io/badge/Discord-officialchroma9-7289DA?logo=discord&logoColor=white)](https://discord.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-OfficialChroma9-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/OfficialChroma9)
+[![Twitch](https://img.shields.io/badge/Twitch-Chroma9Live-9146FF?logo=twitch&logoColor=white)](https://twitch.tv/Chroma9Live)
+[![Reddit](https://img.shields.io/badge/Reddit-Chroma9-FF4500?logo=reddit&logoColor=white)](https://reddit.com/u/OfficialChroma9)
+[![Steam](https://img.shields.io/badge/Steam-Chroma9-000000?logo=steam&logoColor=white)](https://steamcommunity.com/id/OfficialChroma9)
