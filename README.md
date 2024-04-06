@@ -17,5 +17,5 @@ other projects scattered across my Github.
 [![Discord](https://img.shields.io/badge/Discord-officialchroma9-7289DA?logo=discord&logoColor=white)](https://discord.com/)
 [![Twitter](https://img.shields.io/badge/Twitter-OfficialChroma9-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/OfficialChroma9)
 [![Twitch](https://img.shields.io/badge/Twitch-Chroma9Live-9146FF?logo=twitch&logoColor=white)](https://twitch.tv/Chroma9Live)
-[![Reddit](https://img.shields.io/badge/Reddit-Chroma9-FF4500?logo=reddit&logoColor=white)](https://reddit.com/u/OfficialChroma9)
+[![Reddit](https://img.shields.io/badge/Reddit-OfficialChroma9-FF4500?logo=reddit&logoColor=white)](https://reddit.com/u/OfficialChroma9)
 [![Steam](https://img.shields.io/badge/Steam-Chroma9-000000?logo=steam&logoColor=white)](https://steamcommunity.com/id/OfficialChroma9)
