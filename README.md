@@ -12,6 +12,8 @@ other projects scattered across my Github.
 
 ![Github Stats - Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chroma9&show_icons=true&theme=tokyonight&layout=compact)
 
+<hr>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Contact+Me)](https://git.io/typing-svg)
 
 [![Discord](https://img.shields.io/badge/Discord-officialchroma9-7289DA?logo=discord&logoColor=white)](https://discord.com/)
